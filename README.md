@@ -4,7 +4,7 @@
  **"Can we run 7B models on a phone?"**
  I implemented a Quaternion-BitNet model that uses **1/4 parameters** and **1.58-bit quantization**.
 
- ## Result (High School Project)
+ ## Result
  * **Loss:** 1.5027 (Shakespeare dataset)
  * **H/W:** NVIDIA A100 (Single GPU)
 
