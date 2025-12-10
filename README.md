@@ -3,7 +3,7 @@
 
  ## 💾 Model Weights
 GitHub에는 용량 제한이 있어 학습된 모델 파일은 Hugging Face에 올려두었습니다.
-👉 **[Download Model Here](https://huggingface.co/본인아이디/모델이름](https://huggingface.co/pokemonrgby/Quaternion-BitNet-Shakespeare )**
+👉 **[Download Model Here](https://huggingface.co/pokemonrgby/Quaternion-BitNet-Shakespeare)**
 
  **"Can we run 7B models on a phone?"**
  I implemented a Quaternion-BitNet model that uses **1/4 parameters** and **1.58-bit quantization**.
