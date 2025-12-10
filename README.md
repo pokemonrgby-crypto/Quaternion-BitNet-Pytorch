@@ -14,7 +14,6 @@
  -> Look at the distinct -1, 0, 1 peaks! The quantization works perfectly.
 
  ## Generated Text
-========================================
 
 there, that him honour queen, my change, pace!
 And ruch do with Lartion, do for our prosed
@@ -46,4 +45,3 @@ For I washing me, thou say sweet thy foul and
 By kindly names be aigns knowledged in hands thy luischion,
 Thou orted thy heart is pardon nightent,
 And thy F
-========================================
