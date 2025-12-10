@@ -5,7 +5,7 @@
  I implemented a Quaternion-BitNet model that uses **1/4 parameters** and **1.58-bit quantization**.
 
  ## Result (High School Project)
- * **Loss:** 1.47 (Shakespeare dataset)
+ * **Loss:** 1.5027 (Shakespeare dataset)
  * **H/W:** NVIDIA A100 (Single GPU)
 
  ## Visualization (The Trident 🔱)
